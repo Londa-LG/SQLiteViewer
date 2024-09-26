@@ -1,6 +1,6 @@
 # SQLiteViewer
 
-This is a sqlite database gui viewer.
+This is a Sqlite database GUI viewer.
 
 ## Why this exist?
 
@@ -46,7 +46,7 @@ Run the application
 Type the local sqlite database name
 ![screenshot of app](./Screenshots/running2.png)
 
-Click connect. Then everytime you make a change click refresh to see it.
+Click connect. Then every time you make a change click refresh to see it.
 ![screenshot of app](./Screenshots/running3.png)
 
 ## Contributions
