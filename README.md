@@ -4,7 +4,7 @@ This is a Sqlite database GUI viewer.
 
 ## Why this exist?
 
-I was working on a test taking app and reading the database everytime I made a change was getting in the way of making progress so I built this to make that easier.
+I was working on a test taking app and trying read database everytime I made a change was getting complicated and got in the way of making progress so I built this.
 
 
 ## Quick Start
