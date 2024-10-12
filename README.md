@@ -11,7 +11,7 @@ I was working on a test taking app and trying read database everytime I made a c
 
 Clone this repo
 ```bash
-git clone <this_repo>
+git clone https://github.com/Londa-LG/SQLiteViewer.git
 ```
 
 Create a virtula environment
